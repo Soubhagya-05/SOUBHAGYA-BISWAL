@@ -38,7 +38,8 @@
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
-##  GitHub Stats
+## GitHub Statistics
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
@@ -48,7 +49,12 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Soubhagya-05&theme=tokyo-night" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/github/issues-closed/Soubhagya-05/SOUBHAGYA-BISWAL?label=Issues%20Closed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr-closed/Soubhagya-05/SOUBHAGYA-BISWAL?label=PRs%20Merged&style=for-the-badge" />
 </p>
 ---
 
