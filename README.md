@@ -8,7 +8,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 - 💡 Proficient in **C++**
 - 🐍 Familiar with **Python (Basics)**
 - ⚙️ Backend developer using **Node.js & Express**
@@ -18,28 +18,28 @@
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
-### 💻 Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=cpp,python" />
 
-### ⚙️ Backend
+### Backend
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
-### 🌐 APIs
+### APIs
 - RESTful API design  
 - CRUD operations  
 - MVC structure  
 
-### 🗄️ Database
+### Database
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
-### 🛠️ Tools
+###  Tools
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&theme=tokyonight" />
 </p>
@@ -50,20 +50,20 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 ![snake gif](https://github.com/Soubhagya-05/SOUBHAGYA-BISWAL/blob/output/github-snake-dark.svg)
 ---
 
-## 💻 Current Work Laptop
+##   Current Work Laptop
 <p>
   <img src="https://skillicons.dev/icons?i=apple,git,nodejs,mongodb" />
 </p>
 
-- 🖥️ **Device:** MacBook M2 Pro  
-- ⚙️ **CPU:** Apple M2  
-- 🧠 **RAM:** 8GB  
-- 💾 **Storage:** SSD  
-- 🖥️ **OS:** macOS  
+-  **Device:** MacBook M2 Pro  
+-  **CPU:** Apple M2  
+-  **RAM:** 16GB  
+-  **Storage:** SSD  
+-  **OS:** macOS  
 
 ---
 
