@@ -39,9 +39,9 @@
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://img.shields.io/badge/Total%20Commits-Active-brightgreen?style=for-the-badge" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -50,7 +50,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/github/issues-closed/Soubhagya-05/SOUBHAGYA-BISWAL?label=Issues%20Closed&style=for-the-badge" />
-  <img src="https://img.shields.io/github/issues-pr-closed/Soubhagya-05/SOUBHAGYA-BISWAL?label=PRs%20Merged&style=for-the-badge" />
 </p>
 ---
 
