@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Your SOUBHAGYA</h1>
-<h3 align="center">Aspiring Software engineer | C++ & Node.js</h3>
+<h1 align="center">Hi 👋, I'm SOUBHAGYA</h1>
+<h3 align="center">Aspiring Software Engineer | C++ & Node.js</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Soubhagya-05&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
@@ -22,9 +26,9 @@
 <img src="https://skillicons.dev/icons?i=nodejs,express" />
 
 ### 🌐 APIs
-- RESTful API design
-- CRUD operations
-- MVC structure
+- RESTful API design  
+- CRUD operations  
+- MVC structure  
 
 ### 🗄️ Database
 <img src="https://skillicons.dev/icons?i=mongodb" />
@@ -35,32 +39,36 @@
 ---
 
 ## 📊 GitHub Stats
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&theme=tokyonight" />
 </p>
 
-<p>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-05&theme=tokyonight" />
 </p>
 
 ---
 
-## 🧠 Core Skills
-- Data Structures & Algorithms (C++)
-- Backend Architecture
-- API Development
-- Database Design (MongoDB)
-- Debugging & Problem Solving
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://github.com/Soubhagya-05/Soubhagya-05/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 💻 Current Work Laptop
+<p>
+  <img src="https://skillicons.dev/icons?i=apple,git,nodejs,mongodb" />
+</p>
+
+- 🖥️ **Device:** MacBook M2 Pro  
+- ⚙️ **CPU:** Apple M2  
+- 🧠 **RAM:** 8GB  
+- 💾 **Storage:** SSD  
+- 🖥️ **OS:** macOS  
 
 ---
 
 ## 🌐 Connect With Me
-- GitHub: https://github.com/Soubhagya-05
+- GitHub: https://github.com/Soubhagya-05  
 - LinkedIn: https://www.linkedin.com/in/soubhagya-biswal-a39542310/
-
----
-
-## 🚀 Current Focus
-- Strengthening **DSA in C++**
-- Building real-world **Backend Projects**
-- Improving **System Design basics**
