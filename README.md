@@ -38,9 +38,17 @@
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
-## 📊 GitHub Statistics
+##  GitHub Stats
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Soubhagya-05/SOUBHAGYA-BISWAL/main/github-metrics.svg" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-05&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/issues-closed/Soubhagya-05/SOUBHAGYA-BISWAL?label=Issues%20Closed&style=for-the-badge" />
 </p>
 ---
 
