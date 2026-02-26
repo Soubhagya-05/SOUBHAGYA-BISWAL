@@ -41,7 +41,7 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
+  <img src="https://img.shields.io/badge/Total%20Commits-Active-brightgreen?style=for-the-badge" />
 </p>
 
 <p align="center">
