@@ -51,9 +51,8 @@
 
 ## 🐍 Contribution Snake
 <p align="center">
-  <img src="https://github.com/Soubhagya-05/Soubhagya-05/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Soubhagya-05/SOUBHAGYA-BISWAL/output/github-contribution-grid-snake.svg" />
 </p>
-
 ---
 
 ## 💻 Current Work Laptop
