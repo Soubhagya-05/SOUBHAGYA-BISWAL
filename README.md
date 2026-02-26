@@ -38,8 +38,7 @@
 <img src="https://skillicons.dev/icons?i=git,github" />
 
 ---
-
-##  GitHub Statistics
+## 📊 GitHub Statistics
 <p align="center">
   <img src="https://raw.githubusercontent.com/Soubhagya-05/SOUBHAGYA-BISWAL/main/github-metrics.svg" />
 </p>
