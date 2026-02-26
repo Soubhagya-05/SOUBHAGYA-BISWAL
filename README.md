@@ -67,8 +67,8 @@
   <img src="https://skillicons.dev/icons?i=apple,git,nodejs,mongodb" />
 </p>
 
--  **Device:** MacBook M2 Pro  
--  **CPU:** Apple M2  
+-  **Device:** MacBook 
+-  **CPU:** Apple M2
 -  **RAM:** 16GB  
 -  **Storage:** SSD  
 -  **OS:** macOS  
