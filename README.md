@@ -9,12 +9,12 @@
 ---
 
 ## About Me
-- 💡 Proficient in **C++**
-- 🐍 Familiar with **Python (Basics)**
-- ⚙️ Backend developer using **Node.js & Express**
-- 🌐 Experience building **REST APIs**
-- 🗄️ Worked with **MongoDB**
-- 🔧 Version control using **Git**
+-  Proficient in **C++**
+-  Familiar with **Python (Basics)**
+-  Backend developer using **Node.js & Express**
+-  Experience building **REST APIs**
+-  Worked with **MongoDB**
+-  Version control using **Git**
 
 ---
 
@@ -41,20 +41,24 @@
 
 ## GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Soubhagya-05&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Soubhagya-05&theme=tokyonight" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/issues-closed/Soubhagya-05/SOUBHAGYA-BISWAL?label=Issues%20Closed&style=for-the-badge" />
+  <img src="https://img.shields.io/github/issues-pr-closed/Soubhagya-05/SOUBHAGYA-BISWAL?label=PRs%20Merged&style=for-the-badge" />
+</p>
 ---
 
 ## Contribution Snake
 ![snake gif](https://github.com/Soubhagya-05/SOUBHAGYA-BISWAL/blob/output/github-snake-dark.svg)
 ---
 
-##   Current Work Laptop
+##   Current Work System
 <p>
   <img src="https://skillicons.dev/icons?i=apple,git,nodejs,mongodb" />
 </p>
@@ -67,6 +71,6 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 - GitHub: https://github.com/Soubhagya-05  
 - LinkedIn: https://www.linkedin.com/in/soubhagya-biswal-a39542310/
